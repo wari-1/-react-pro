@@ -1,0 +1,19 @@
+.main-fade {
+}
+.main-fade-enter {
+  margin-left: 100%;
+  position: absolute;
+  z-index: 1;
+}
+.main-fade-enter-active {
+  margin-left: 0;
+  transition: margin-left 2s;
+}
+.main-fade-exit {
+  /* position: absolute; */
+  margin-left: 0;
+}
+.main-fade-exit-active {
+  margin-left: 0;
+  transition: margin-left 2s;
+}

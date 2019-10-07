@@ -1,0 +1,24 @@
+/* .con {
+  display: none;
+} */
+.fade {
+  display: none;
+}
+.fade-enter {
+  margin-left: -100%;
+  /* display: block; */
+}
+.fade-enter .fade-enter-active {
+  margin-left: 0;
+  transition: margin-left 2s;
+}
+.fade-exit {
+  margin-left: 0;
+}
+.fade-exit-active {
+  margin-left: 100%;
+  transition: margin-left 2s;
+}
+.fade-exit-done {
+  display: none;
+}

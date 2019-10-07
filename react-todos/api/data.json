@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "text": "hhjhjqwjjqw",
+      "isCompleted": true,
+      "id": 3
+    },
+    {
+      "text": "wqqwqw",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "text": "wqw",
+      "isCompleted": false,
+      "id": 7
+    }
+  ],
+  "type": {
+    "type": "all"
+  }
+}

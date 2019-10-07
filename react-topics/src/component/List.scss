@@ -1,0 +1,28 @@
+ul.list {
+  display: flex;
+  width: 200px;
+  margin-left: 20px;
+  justify-content: space-between;
+  li {
+    margin-right: 10px;
+    width: 50px;
+    line-height: 50px;
+  }
+}
+a.active {
+  color: aqua;
+}
+ul.content li {
+  display: flex;
+  align-items: center;
+  margin: 5px;
+  span {
+    color: #fff;
+    background-color: #369219;
+    width: 50px;
+    border-radius: 4px;
+    margin-right: 10px;
+    line-height: 25px;
+    text-align: center;
+  }
+}

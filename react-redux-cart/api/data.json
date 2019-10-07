@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "iphone 11",
+      "price": 10000,
+      "inventory": 10
+    },
+    {
+      "id": "2",
+      "name": "奔驰大G",
+      "price": 1500000,
+      "inventory": 2
+    },
+    {
+      "id": "3",
+      "name": "百草味大礼包",
+      "price": 159,
+      "inventory": 12
+    },
+    {
+      "id": "4",
+      "name": "HUAWEI nova5",
+      "price": 2799,
+      "inventory": 8
+    }
+  ],
+  "cart": {
+    "productsIdsInCart": [
+      "2",
+      "4",
+      "3"
+    ],
+    "quantityById": {
+      "2": 2,
+      "3": 2,
+      "4": 1
+    }
+  }
+}
